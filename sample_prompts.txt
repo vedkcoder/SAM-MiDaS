@@ -1,0 +1,5 @@
+1. I have provided an image of my backyard. Please show me how 3 of these chairs would look placed on the right side of the backyard.
+
+2. I have given an image of my backyard. Show me how 2 of the given tables and 3 chair around each table would look like.
+
+3. This is my backyard. Add 3 of these given chairs and show me a top view.

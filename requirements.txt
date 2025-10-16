@@ -1,0 +1,14 @@
+opencv-python
+matplotlib
+--index-url https://download.pytorch.org/whl/cu129
+torch
+timm
+scikit-learn
+google
+google-genai
+dotenv
+langchain
+langchain-google-genai
+spacy
+pytextrank
+
